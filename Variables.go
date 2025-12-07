@@ -1,6 +1,7 @@
 package main
 import "fmt"
 
+var Global = "this is global var"
 
 func main(){
 	var print = fmt.Println

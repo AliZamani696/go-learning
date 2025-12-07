@@ -21,4 +21,5 @@ func main(){
 
 	fmt.Println(div(20,3))
 	fmt.Println(20 / 3,20 % 3)
+	fmt.Println(Global)
 }
